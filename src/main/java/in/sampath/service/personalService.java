@@ -23,6 +23,9 @@ public class personalService {
 
 		//loggic
 	}
+	public void m1(){
+		//logically
+	}
 
 	public void saveAll() throws IOException {
 
