@@ -19,6 +19,11 @@ public class personalService {
 		this.personalrepo = personalrepo;
 	}
 
+	public void m2(){
+
+		//loggic
+	}
+
 	public void saveAll() throws IOException {
 
 		PersonalEntity person = new PersonalEntity();
